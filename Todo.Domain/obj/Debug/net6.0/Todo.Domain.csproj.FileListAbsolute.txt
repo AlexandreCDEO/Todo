@@ -1,0 +1,12 @@
+/Users/alexandredev/Dev/Todo/Todo.Domain/bin/Debug/net6.0/Todo.Domain.deps.json
+/Users/alexandredev/Dev/Todo/Todo.Domain/bin/Debug/net6.0/Todo.Domain.dll
+/Users/alexandredev/Dev/Todo/Todo.Domain/bin/Debug/net6.0/ref/Todo.Domain.dll
+/Users/alexandredev/Dev/Todo/Todo.Domain/bin/Debug/net6.0/Todo.Domain.pdb
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.csproj.AssemblyReference.cache
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.AssemblyInfoInputs.cache
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.AssemblyInfo.cs
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.csproj.CoreCompileInputs.cache
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.dll
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/ref/Todo.Domain.dll
+/Users/alexandredev/Dev/Todo/Todo.Domain/obj/Debug/net6.0/Todo.Domain.pdb

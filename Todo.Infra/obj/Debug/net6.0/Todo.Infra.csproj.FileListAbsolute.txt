@@ -1,0 +1,17 @@
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Infra.deps.json
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Infra.runtimeconfig.json
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Infra.dll
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/ref/Todo.Infra.dll
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Infra.pdb
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Domain.dll
+/Users/alexandredev/Dev/Todo/Todo.Infra/bin/Debug/net6.0/Todo.Domain.pdb
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.csproj.AssemblyReference.cache
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.AssemblyInfoInputs.cache
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.AssemblyInfo.cs
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.csproj.CoreCompileInputs.cache
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.csproj.CopyComplete
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.dll
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/ref/Todo.Infra.dll
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.pdb
+/Users/alexandredev/Dev/Todo/Todo.Infra/obj/Debug/net6.0/Todo.Infra.genruntimeconfig.cache
